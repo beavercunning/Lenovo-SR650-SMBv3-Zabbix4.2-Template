@@ -1,0 +1,1 @@
+# Lenovo-SR650-SMBv3-Zabbix4.2-Template
